@@ -1,6 +1,4 @@
-local Library = {
-Connections = {}
-}
+local Library = {}
 
 
 function Library.Set_Defaults(Defaults,Settings)
